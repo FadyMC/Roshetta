@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "598636726190",
+    "project_id": "roshetta-6e3ny2",
+    "storage_bucket": "roshetta-6e3ny2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598636726190:android:457044e481d4d204792a3f",
+        "android_client_info": {
+          "package_name": "Roshetta.Doctor.Appointement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598636726190-ufjtnmsinrdiluk3b3ih70pt7ebdb5rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Roshetta.Doctor.Appointement",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGtwXcv7SZc7ovXzs3DkA0Fe_-icnxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598636726190-74n5bm2aj01n4ro7i9im9786pb3uvmbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roshetta.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598636726190:android:86504dc9dd6d2646792a3f",
+        "android_client_info": {
+          "package_name": "com.roshetta.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598636726190-9mplctkmoqr2cgp2f5jrsk259p1nap3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roshetta.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGtwXcv7SZc7ovXzs3DkA0Fe_-icnxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598636726190-74n5bm2aj01n4ro7i9im9786pb3uvmbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roshetta.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598636726190:android:e36324fb979c5f5d792a3f",
+        "android_client_info": {
+          "package_name": "com.roshetta.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598636726190-ij51iv7aqtm77namo2j82l5slvn4v1or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roshetta.dashboard",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGtwXcv7SZc7ovXzs3DkA0Fe_-icnxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598636726190-74n5bm2aj01n4ro7i9im9786pb3uvmbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roshetta.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598636726190:android:58eeb3c7f27d1631792a3f",
+        "android_client_info": {
+          "package_name": "com.roshetta.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598636726190-9acmobm87et7lkfve688ko6tp96fj1kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roshetta.myapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGtwXcv7SZc7ovXzs3DkA0Fe_-icnxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598636726190-hvqkg7shj1c5emgvql6475srnqs4ub2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598636726190-74n5bm2aj01n4ro7i9im9786pb3uvmbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roshetta.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
