@@ -390,20 +390,25 @@ class _OnboardingWidgetState extends State<OnboardingWidget>
                                       mainAxisAlignment:
                                           MainAxisAlignment.center,
                                       children: [
-                                        Text(
-                                          FFLocalizations.of(context).getText(
-                                            'xh10m305' /* Looking for a Doctor with no h... */,
-                                          ),
-                                          textAlign: TextAlign.center,
-                                          style: FlutterFlowTheme.of(context)
-                                              .displaySmall
-                                              .override(
-                                                fontFamily: 'Cairo',
-                                                fontSize: 29.0,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ).animateOnPageLoad(animationsMap[
-                                            'textOnPageLoadAnimation1']!),
+                                        Padding(
+                                          padding:
+                                              EdgeInsetsDirectional.fromSTEB(
+                                                  0.0, 13.0, 0.0, 0.0),
+                                          child: Text(
+                                            FFLocalizations.of(context).getText(
+                                              'xh10m305' /* Looking for a Doctor with no h... */,
+                                            ),
+                                            textAlign: TextAlign.center,
+                                            style: FlutterFlowTheme.of(context)
+                                                .displaySmall
+                                                .override(
+                                                  fontFamily: 'Cairo',
+                                                  fontSize: 29.0,
+                                                  fontWeight: FontWeight.w800,
+                                                ),
+                                          ).animateOnPageLoad(animationsMap[
+                                              'textOnPageLoadAnimation1']!),
+                                        ),
                                         Padding(
                                           padding:
                                               EdgeInsetsDirectional.fromSTEB(

@@ -109,7 +109,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   {
     'my8n23fx': {
       'en': 'Pharmacy',
-      'ar': 'مقابل',
+      'ar': 'صيدليه',
     },
     'ojttk4dh': {
       'en': 'Nursing',
@@ -117,15 +117,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'k25z8jl2': {
       'en': 'Analysis',
-      'ar': 'تحليل',
+      'ar': 'تحاليل',
     },
     'bfaapww4': {
       'en': 'ICU',
-      'ar': 'وحدة العناية المركزة',
+      'ar': 'العناية المركزة',
     },
     'k89m190z': {
       'en': 'Emergency',
-      'ar': 'طارئ',
+      'ar': 'طوارئ',
     },
     'gh1wtxxb': {
       'en': 'Book a Surgery',
@@ -191,7 +191,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '68w4b7n5': {
       'en': 'Urology',
-      'ar': 'جراحة المسالك البولية',
+      'ar': 'المسالك البولية',
     },
     'qjbmirh3': {
       'en': 'Digestive',
@@ -207,7 +207,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '6fwau861': {
       'en': 'Chest',
-      'ar': 'صدر',
+      'ar': 'صدريه',
     },
     'vsb5utqg': {
       'en': 'Bone Surgery',
